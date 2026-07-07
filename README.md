@@ -198,6 +198,7 @@ agent-orchestration/
 
 <div align="center">
 
-Built by [Rohith Singhu](https://github.com/rohith-jpg) · [LinkedIn](https://www.linkedin.com/in/rohith-singhu-24b8a0249)
+Built by [Rohith
+](https://github.com/rohith-jpg) · [LinkedIn](https://www.linkedin.com/in/rohith-singhu-24b8a0249)
 
 </div>
